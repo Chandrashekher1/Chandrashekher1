@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Frontend**
 
-- 🌱 I’m currently learning **JAVA , REACT**
+- 🌱 I’m currently learning **REACT, Node.JS**
 
 - 👨‍💻 All of my projects are available at [chandrashekher03.vercel.app](chandrashekher03.vercel.app)
 
