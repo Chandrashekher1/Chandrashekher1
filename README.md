@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **JAVA , REACT**
 
-- 👨‍💻 All of my projects are available at [chandrashekher03.vercel.app](chandrashekher03.vercel.app)
+- 👨‍💻 For Portfolio [chandrashekher03.vercel.app](chandrashekher03.vercel.app)
 
-- 💬 Ask me about **react, JavaScript, Java**
+- 💬 Ask me about **HTML,CSS,react, JavaScript, Java**
 
 - 📫 How to reach me **cpsaw999041@gmail.com**
 
