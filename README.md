@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JAVA , REACT**
 
-- 👨‍💻 Portfolio [chandrashekher03.vercel.app](chandrashekher03.vercel.app)
+- 👨‍💻 Portfolio chandrashekher03.vercel.app
 
 - 💬 Ask me about **HTML, CSS, react, JavaScript, Java**
 
