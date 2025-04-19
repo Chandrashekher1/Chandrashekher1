@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JAVA , REACT**
 
-- 👨‍💻 Portfolio <a href="https://cli-portfolio-blue.vercel.app" target="blank"></a> </p>
+- 👨‍💻 Portfolio <a href="https://cli-portfolio-blue.vercel.app" target="blank"></a>Link</p>
 - 💬 Ask me about **HTML, CSS, react, JavaScript, Java**
 
 - 📫 How to reach me **cpsaw999041@gmail.com**
