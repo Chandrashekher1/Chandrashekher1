@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandrashekher Prasad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN STACK developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrashekher1&label=Profile%20views&color=0e75b6&style=flat" alt="chandrashekher1" /> </p>
 
@@ -12,7 +12,7 @@
 - 👨‍💻 Portfolio <a href="https://cli-portfolio-blue.vercel.app" target="blank">Link</a>
 - 💬 Ask me about **HTML, CSS, react, JavaScript, React, MongoDB, Express, Node, Java**
 
-- 📫 How to reach me <a href="cpsaw999041@gmail.com" target="blank">Email</a>
+- 📫 How to reach me <a href="mailto:cpsaw999041@gmail.com" target="blank">Email</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
