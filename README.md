@@ -5,14 +5,14 @@
 
 <p align="left"> <a href="https://twitter.com/cpsaw03" target="blank"><img src="https://img.shields.io/twitter/follow/cpsaw03?logo=twitter&style=for-the-badge" alt="cpsaw03" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend**
+- 🔭 I’m currently working on **MERN STACK**
 
-- 🌱 I’m currently learning **JAVA , REACT**
+- 🌱 I’m currently learning **Java , React , Express , Node , MongoDB **
 
 - 👨‍💻 Portfolio <a href="https://cli-portfolio-blue.vercel.app" target="blank">Link</a>
-- 💬 Ask me about **HTML, CSS, react, JavaScript, Java**
+- 💬 Ask me about **HTML, CSS, react, JavaScript, React, MongoDB, Express, Node, Java**
 
-- 📫 How to reach me **cpsaw999041@gmail.com**
+- 📫 How to reach me <a href="cpsaw999041@gmail.com" target="blank">Email</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
