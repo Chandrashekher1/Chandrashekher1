@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Java , React , Express , Node , MongoDB **
 
 - 👨‍💻 Portfolio <a href="https://cli-portfolio-blue.vercel.app" target="blank">Link</a>
-- 💬 Ask me about **HTML, CSS, react, JavaScript, React, MongoDB, Express, Node, Java**
+- 💬 Ask me about **HTML, CSS, react, JavaScript, React, MongoDB, Express, Node, Java **
 
 - 📫 How to reach me <a href="mailto:cpsaw999041@gmail.com" target="blank">Email</a>
 
