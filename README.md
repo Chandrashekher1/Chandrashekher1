@@ -7,10 +7,10 @@
 
 - 🔭 I’m currently working on **MERN STACK**
 
-- 🌱 I’m currently learning **Java , React , Express , Node , MongoDB**
+- 🌱 I’m currently learning **Java, Express , Node , MongoDB , TypeScript**
 
 - 👨‍💻 Portfolio <a href="https://thechandrashekher.vercel.app/" target="blank">Link</a>
-- 💬 Ask me about **HTML, CSS, react, JavaScript, React, MongoDB, Express, Node, Java**
+- 💬 Ask me about **HTML, CSS, react, JavaScript, React, MongoDB, Express, Node, TypeScript, Java**
 
 - 📫 How to reach me <a href="mailto:cpsaw999041@gmail.com" target="blank">Email</a>
 
