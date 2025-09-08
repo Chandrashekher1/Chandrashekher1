@@ -1,9 +1,9 @@
 ## Hi  👋, I'm Chandrashekher Prasad
 # FULL Stack Developer
 - Based in **New Delhi, India**.
-- See my portfolio at <a href="https://thechandrashekher.vercel.app/" target="blank">Chandrashekher Prasad</a>
-- Reach out to me <a href="mailto:cpsaw999041@gmail.com" target="blank">Email</a>
-- Working with **MERN, Typescript, WebSockets, VectorDB** nowdays!
+- Explore my portfolio at <a href="https://thechandrashekher.vercel.app/" target="blank">Chandrashekher Prasad</a>
+- Get in touch via <a href="mailto:cpsaw999041@gmail.com" target="blank">Email</a>
+- Currently building with **MERN, Typescript, WebSockets, VectorDB!**
 
 ## TOOL & Technologies
 - Languages: Javascript/TypeScript, Java.
