@@ -1,5 +1,5 @@
 ## Hi  👋, I'm Chandrashekher Prasad
-# FULL Stack Developer
+# Software Engineer
 - Based in **New Delhi, India**.
 - Explore my portfolio at <a href="https://ichandrashekherprasad.vercel.app/" target="blank">Chandrashekher Prasad</a>
 - Get in touch via <a href="mailto:chandrashekher.prasad04@gmail.com" target="blank">Email</a>
